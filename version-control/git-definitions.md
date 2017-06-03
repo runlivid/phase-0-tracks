@@ -17,3 +17,5 @@ Records changes to a repository. That it has meaning so that others can understa
 * What is a merge conflict?
 
 Merge conflicts occurr if competing changes are made to the same line of the file or when a file is deleted that another person is attempting to edit.
+
+ADD NEW LINE OF CONTENT
